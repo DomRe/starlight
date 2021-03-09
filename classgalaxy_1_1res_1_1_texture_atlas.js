@@ -1,0 +1,26 @@
+var classgalaxy_1_1res_1_1_texture_atlas =
+[
+    [ "AtlasTextureData", "classgalaxy_1_1res_1_1_texture_atlas.html#a5c6c1dee18128ccf30722e2e90feab8c", null ],
+    [ "TextureAtlas", "classgalaxy_1_1res_1_1_texture_atlas.html#a0332b1c5b30cbf3f7051f2501cb5723c", null ],
+    [ "TextureAtlas", "classgalaxy_1_1res_1_1_texture_atlas.html#af660002c4704724e01734c0238c7165a", null ],
+    [ "TextureAtlas", "classgalaxy_1_1res_1_1_texture_atlas.html#a7df70351b95083af0c2f38911a30cf96", null ],
+    [ "~TextureAtlas", "classgalaxy_1_1res_1_1_texture_atlas.html#aa01cdaf0c8ca36edc4d167923f62568e", null ],
+    [ "TextureAtlas", "classgalaxy_1_1res_1_1_texture_atlas.html#a023e2a24a42f0bb6b39949c449eb87ce", null ],
+    [ "add", "classgalaxy_1_1res_1_1_texture_atlas.html#a159bd8d5f3528ef4ace68dd1b9eebc1a", null ],
+    [ "add_custom_region", "classgalaxy_1_1res_1_1_texture_atlas.html#aa58d35784e135c9cd68df23ffe92d931", null ],
+    [ "add_from_json", "classgalaxy_1_1res_1_1_texture_atlas.html#a1521c9cd9f239487c5b9ca5bdd2a1138", null ],
+    [ "create", "classgalaxy_1_1res_1_1_texture_atlas.html#affee9ef93e7d850389a6723ce2f50b46", null ],
+    [ "get_atlas", "classgalaxy_1_1res_1_1_texture_atlas.html#ad8a4a6350b088553439106397063ad7d", null ],
+    [ "get_region", "classgalaxy_1_1res_1_1_texture_atlas.html#a07ac47d6d428aa69a0b42db69f2132bb", null ],
+    [ "get_size", "classgalaxy_1_1res_1_1_texture_atlas.html#ab6156e9bb30e9edb464acc19ad6597d4", null ],
+    [ "get_tex_data", "classgalaxy_1_1res_1_1_texture_atlas.html#a0e28fe35e07e0889caefd6ade4a96113", null ],
+    [ "gl_texture", "classgalaxy_1_1res_1_1_texture_atlas.html#aa642729cd08917f8a5471a92a71218b6", null ],
+    [ "operator=", "classgalaxy_1_1res_1_1_texture_atlas.html#a5eed2c02309c2d958f8b533112b49d53", null ],
+    [ "operator=", "classgalaxy_1_1res_1_1_texture_atlas.html#a2a65f25289f7f58d95bfe7702a560b91", null ],
+    [ "save", "classgalaxy_1_1res_1_1_texture_atlas.html#a777d55b555f55d8073de0b1bc071155f", null ],
+    [ "update", "classgalaxy_1_1res_1_1_texture_atlas.html#a4127012a01bd23a14a9b617db529aa4f", null ],
+    [ "m_packer", "classgalaxy_1_1res_1_1_texture_atlas.html#ac3870a147d405cd2245527c04c3636a9", null ],
+    [ "m_size", "classgalaxy_1_1res_1_1_texture_atlas.html#ad793308c7b7b20cc0e9952b90041db5a", null ],
+    [ "m_texture", "classgalaxy_1_1res_1_1_texture_atlas.html#a96481eea4b96dde316816f0b37aedebb", null ],
+    [ "m_textures", "classgalaxy_1_1res_1_1_texture_atlas.html#a38bcd1ee1c390da4b68798a7e17eaa16", null ]
+];

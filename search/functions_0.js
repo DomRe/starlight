@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['a_5fnormal_2063',['a_normal',['../classgalaxy_1_1graphics_1_1_colour.html#a254b7ba0efe30c5e86f7d24f54fa0c9a',1,'galaxy::graphics::Colour']]],
+  ['aabb_2064',['AABB',['../classgalaxy_1_1physics_1_1_a_a_b_b.html#a830fcfe8816034cbb40f3c2c414baf60',1,'galaxy::physics::AABB::AABB() noexcept'],['../classgalaxy_1_1physics_1_1_a_a_b_b.html#ad29d77b736666d181f9cbf886fa94bfb',1,'galaxy::physics::AABB::AABB(const glm::vec2 &amp;min, const glm::vec2 &amp;max) noexcept']]],
+  ['absolute_2065',['absolute',['../classgalaxy_1_1fs_1_1_virtual.html#a9a167ee0a00b8af34e70ec493d22c136',1,'galaxy::fs::Virtual']]],
+  ['add_2066',['add',['../classgalaxy_1_1graphics_1_1_sprite_batch.html#a6fd3f44cac006f8e70a00586269cbaa1',1,'galaxy::graphics::SpriteBatch::add()'],['../classgalaxy_1_1graphics_1_1_vertex_layout.html#a3da0dcc1d52ecc3eac5ee578158212cc',1,'galaxy::graphics::VertexLayout::add()'],['../classgalaxy_1_1res_1_1_texture_atlas.html#a159bd8d5f3528ef4ace68dd1b9eebc1a',1,'galaxy::res::TextureAtlas::add()']]],
+  ['add_5fanimation_2067',['add_animation',['../classgalaxy_1_1components_1_1_animated.html#a0d59692e0b7b9ee158c24e0bdae093d3',1,'galaxy::components::Animated']]],
+  ['add_5fcustom_5fregion_2068',['add_custom_region',['../classgalaxy_1_1res_1_1_texture_atlas.html#aa58d35784e135c9cd68df23ffe92d931',1,'galaxy::res::TextureAtlas']]],
+  ['add_5fevent_5fto_5fwidget_2069',['add_event_to_widget',['../classgalaxy_1_1ui_1_1_g_u_i.html#a5a319eb02d59c5f25b3648657d0f0095',1,'galaxy::ui::GUI']]],
+  ['add_5ffrom_5fjson_2070',['add_from_json',['../classgalaxy_1_1res_1_1_texture_atlas.html#a1521c9cd9f239487c5b9ca5bdd2a1138',1,'galaxy::res::TextureAtlas']]],
+  ['add_5fsfx_2071',['add_sfx',['../classgalaxy_1_1ui_1_1_widget.html#aec37e52060e78eaa77140d45d3c72990',1,'galaxy::ui::Widget']]],
+  ['addaction_2072',['AddAction',['../structgalaxy_1_1meta_1_1_add_action.html#a85a6396590cc93e8540f86f05f0d78bd',1,'galaxy::meta::AddAction']]],
+  ['adjust_5fancestor_5fbounds_2073',['adjust_ancestor_bounds',['../classgalaxy_1_1physics_1_1_dynamic_tree.html#acb5764e55d0a45dc66cf3f6c6b84675e',1,'galaxy::physics::DynamicTree']]],
+  ['al_5ferrcode_5fas_5fstring_2074',['al_errcode_as_string',['../namespacegalaxy_1_1error.html#a2fc1fe3af2c5704e7d91b33602445936',1,'galaxy::error']]],
+  ['al_5fparse_5ferror_2075',['al_parse_error',['../namespacegalaxy_1_1error.html#a7cc8255520a3c61a8cb26912e776492c',1,'galaxy::error']]],
+  ['allocate_5fnode_2076',['allocate_node',['../classgalaxy_1_1physics_1_1_dynamic_tree.html#ace0c92c786cf5c11f79949142879a803',1,'galaxy::physics::DynamicTree']]],
+  ['allow_5fnative_5fclosing_2077',['allow_native_closing',['../classgalaxy_1_1core_1_1_window.html#a0e141931ef9eab774998b15003d6783f',1,'galaxy::core::Window']]],
+  ['amount_2078',['amount',['../classgalaxy_1_1graphics_1_1_particle_generator.html#a21cfcede3ef6420b508345f473453d5f',1,'galaxy::graphics::ParticleGenerator']]],
+  ['angle_2079',['angle',['../classgalaxy_1_1graphics_1_1_particle.html#ae39469f9caaa38da0254e52a2f51ba7c',1,'galaxy::graphics::Particle']]],
+  ['animated_2080',['Animated',['../classgalaxy_1_1components_1_1_animated.html#a95adc75fdf5a6a896784a811fedd0714',1,'galaxy::components::Animated::Animated() noexcept'],['../classgalaxy_1_1components_1_1_animated.html#a6b4b562fe0666524e4cb504729ec9fdb',1,'galaxy::components::Animated::Animated(const nlohmann::json &amp;json)'],['../classgalaxy_1_1components_1_1_animated.html#a19fa66758768a32aaaf23a877b8aae57',1,'galaxy::components::Animated::Animated(Animated &amp;&amp;) noexcept']]],
+  ['animation_2081',['Animation',['../classgalaxy_1_1graphics_1_1_animation.html#a511be06c22a0330038806f20f9c478b9',1,'galaxy::graphics::Animation::Animation() noexcept'],['../classgalaxy_1_1graphics_1_1_animation.html#a23be7d11317a6b2ce9c6c1183caf12fc',1,'galaxy::graphics::Animation::Animation(std::string_view name, const bool looping, const double speed, std::span&lt; Frame &gt; frames) noexcept'],['../classgalaxy_1_1graphics_1_1_animation.html#afbb7d9ee655c09eca28fdbfb61cf3ed0',1,'galaxy::graphics::Animation::Animation(std::string_view name, const nlohmann::json &amp;json)']]],
+  ['animationsystem_2082',['AnimationSystem',['../classgalaxy_1_1systems_1_1_animation_system.html#afaaad0bdc693bf8ca47c710c4ea669c8',1,'galaxy::systems::AnimationSystem']]],
+  ['application_2083',['Application',['../classgalaxy_1_1core_1_1_application.html#a2123d1d2d1cc15d5c8e829aa7dcca3df',1,'galaxy::core::Application::Application(std::string_view asset_dir, std::string_view config_file)'],['../classgalaxy_1_1core_1_1_application.html#a3c8c6f1aa96ac597673851a8a765178d',1,'galaxy::core::Application::Application(const Application &amp;)=delete'],['../classgalaxy_1_1core_1_1_application.html#aa888601ea39c24ea8f6e36c67e5b16a1',1,'galaxy::core::Application::Application(Application &amp;&amp;)=delete']]],
+  ['apply_5faction_5fto_5fsubscribers_2084',['apply_action_to_subscribers',['../classgalaxy_1_1events_1_1_storage.html#aed1bda9caa05b83e016fc88f1e149693',1,'galaxy::events::Storage']]],
+  ['area_2085',['area',['../classgalaxy_1_1physics_1_1_a_a_b_b.html#ab48e7755ab548011fe97ffe352128d54',1,'galaxy::physics::AABB']]],
+  ['atlas_2086',['atlas',['../classgalaxy_1_1core_1_1_service_locator.html#a059b54ec7c0253e9b29dbe8071fb8088',1,'galaxy::core::ServiceLocator']]]
+];

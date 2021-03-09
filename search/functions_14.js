@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['vacolour_2629',['VAColour',['../structgalaxy_1_1meta_1_1_v_a_colour.html#a38ff3ea265af5dba6cc9de7229c478d5',1,'galaxy::meta::VAColour']]],
+  ['vainstanceoffset_2630',['VAInstanceOffset',['../structgalaxy_1_1meta_1_1_v_a_instance_offset.html#a27dbca69312102db861b2652137e8534',1,'galaxy::meta::VAInstanceOffset']]],
+  ['value_2631',['value',['../classgalaxy_1_1ui_1_1_slider.html#a5e7a75fa9557b54ad2af15502678f4a5',1,'galaxy::ui::Slider']]],
+  ['value_5fin_5frange_2632',['value_in_range',['../classgalaxy_1_1graphics_1_1_rect.html#aa931f1240e433094c436b2c999d6d24c',1,'galaxy::graphics::Rect']]],
+  ['vaopacity_2633',['VAOpacity',['../structgalaxy_1_1meta_1_1_v_a_opacity.html#abf6aead342c6908e0ffab7aa67d8f89d',1,'galaxy::meta::VAOpacity']]],
+  ['vaposition_2634',['VAPosition',['../structgalaxy_1_1meta_1_1_v_a_position.html#ade1acbf37ffa5820502b36aa61c4f619',1,'galaxy::meta::VAPosition']]],
+  ['vatexel_2635',['VATexel',['../structgalaxy_1_1meta_1_1_v_a_texel.html#a10b14f8a066cf83c6f02c047cfc65ade',1,'galaxy::meta::VATexel']]],
+  ['velocity_2636',['velocity',['../classgalaxy_1_1graphics_1_1_particle.html#a2a4023c1d8d967dd28d5276b74da9f15',1,'galaxy::graphics::Particle']]],
+  ['vertexarray_2637',['VertexArray',['../classgalaxy_1_1graphics_1_1_vertex_array.html#a41b82b008ac6798ec11700900e545c97',1,'galaxy::graphics::VertexArray::VertexArray() noexcept'],['../classgalaxy_1_1graphics_1_1_vertex_array.html#abf71493da089488ba0c90a5bdf669f9f',1,'galaxy::graphics::VertexArray::VertexArray(VertexArray &amp;&amp;) noexcept'],['../classgalaxy_1_1graphics_1_1_vertex_array.html#a782c473e012f67ad3015d2162e04ffaf',1,'galaxy::graphics::VertexArray::VertexArray(const VertexArray &amp;)=delete']]],
+  ['vertexattribute_2638',['VertexAttribute',['../classgalaxy_1_1graphics_1_1_vertex_attribute.html#a3c66cbdc205b22d7c1b6d0f55accd763',1,'galaxy::graphics::VertexAttribute::VertexAttribute() noexcept'],['../classgalaxy_1_1graphics_1_1_vertex_attribute.html#ab20494a7ca2d6642ae6824a5b137718e',1,'galaxy::graphics::VertexAttribute::VertexAttribute(const unsigned int size, const unsigned int type, unsigned char normalized, const unsigned int offset) noexcept']]],
+  ['vertexbuffer_2639',['VertexBuffer',['../classgalaxy_1_1graphics_1_1_vertex_buffer.html#aaaa009399b05d8b5421b15bd77738c3f',1,'galaxy::graphics::VertexBuffer::VertexBuffer() noexcept'],['../classgalaxy_1_1graphics_1_1_vertex_buffer.html#a040a948144bc3985eed7f9a8a61c183e',1,'galaxy::graphics::VertexBuffer::VertexBuffer(VertexBuffer &amp;&amp;) noexcept'],['../classgalaxy_1_1graphics_1_1_vertex_buffer.html#a39f9c7d8a64e01cb983ed9f5c47b8293',1,'galaxy::graphics::VertexBuffer::VertexBuffer(const VertexBuffer &amp;)=delete']]],
+  ['vertexdata_2640',['VertexData',['../classgalaxy_1_1graphics_1_1_vertex_data.html#a12f6c9e83c5254a9942de9b607387956',1,'galaxy::graphics::VertexData::VertexData() noexcept=default'],['../classgalaxy_1_1graphics_1_1_vertex_data.html#a3d2c20a3e5adc8a9582a4e730416cb38',1,'galaxy::graphics::VertexData::VertexData(VertexData &amp;&amp;) noexcept'],['../classgalaxy_1_1graphics_1_1_vertex_data.html#a626d25e02a54666dfc842e078e2fd9ba',1,'galaxy::graphics::VertexData::VertexData(const VertexData &amp;)=delete']]],
+  ['vertexlayout_2641',['VertexLayout',['../classgalaxy_1_1graphics_1_1_vertex_layout.html#a5c05f34b055bb267bf89f949cfac6358',1,'galaxy::graphics::VertexLayout']]],
+  ['vfs_2642',['vfs',['../classgalaxy_1_1core_1_1_service_locator.html#a9b0914d54f64c61fa66e764a3393d39d',1,'galaxy::core::ServiceLocator']]],
+  ['virtual_2643',['Virtual',['../classgalaxy_1_1fs_1_1_virtual.html#a103ea85dd84446f1b6456c180e3341f5',1,'galaxy::fs::Virtual']]]
+];
